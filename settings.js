@@ -16,7 +16,7 @@ global.botname = 'CBN-V1' //name of the bot
 
 
 //custom prefix
-global.prefa = [','!','.','#','&']
+global.prefa = ['','!','.','#','&']
 
 
 //false=disable and true=enable
